@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nexovent.tech/public/sitemap.xml

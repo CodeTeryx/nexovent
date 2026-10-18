@@ -1,0 +1,1 @@
+(()=>{document.querySelectorAll(".portal-side>a").forEach(a=>a.addEventListener("click",()=>{document.querySelectorAll(".portal-side>a").forEach(x=>x.classList.remove("portal-active"));a.classList.add("portal-active");const h=document.querySelector(".portal-content h2");if(h)h.textContent=a.textContent==="Overview"?"Good morning, Northstar.":a.textContent+" — preview"}))})();

@@ -1,0 +1,1 @@
+window.NEXO_SITE={name:"Nexovent Tech",email:"contact@nexovent.tech",url:"https://nexovent.tech",currency:"USD"};

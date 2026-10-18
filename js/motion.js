@@ -1,0 +1,1 @@
+(()=>{if(matchMedia("(prefers-reduced-motion: reduce)").matches)return;const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add("in-view");io.unobserve(e.target)}}),{threshold:.12});document.querySelectorAll(".service-card,.project-card,.price-card,.values-grid article").forEach(e=>{e.classList.add("reveal");io.observe(e)})})();

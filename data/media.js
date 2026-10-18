@@ -1,0 +1,1 @@
+window.NEXO_MEDIA={fallback:"Gradient concept artwork used where project photography is not configured.",externalImagesEnabled:false};
